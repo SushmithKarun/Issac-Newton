@@ -10,14 +10,11 @@ header {
 main {
     padding: 40px;
     background: #fafafa;
+    overflow: auto;
 }
 
 img {
     float: right;
-}
-
-footer {
-    clear: both;
 }
 
 footer {
