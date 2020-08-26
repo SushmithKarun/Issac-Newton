@@ -1,0 +1,26 @@
+html, body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    padding: 40px;
+    background-color: wheat;
+}
+
+main {
+    padding: 40px;
+    background: #fafafa;
+}
+
+img {
+    float: right;
+}
+
+footer {
+    clear: both;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+}
